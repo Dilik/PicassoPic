@@ -41,7 +41,7 @@
     }
   }
   ul > li{
-    flex-direction: ;
+    flex-direction: column-reverse;
   }
 
   :root{
